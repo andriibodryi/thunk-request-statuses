@@ -4,5 +4,5 @@ export {
   useIsRejected,
   useIsLoading,
   useIsIdle,
-} from './use-statuses.hook';
+} from './hooks/use-statuses.hook';
 export { resetThunkStatus } from './actions';
